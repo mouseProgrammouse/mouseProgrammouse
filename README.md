@@ -4,8 +4,8 @@ I'm a frontend developer who’s all about bringing ideas to life through clean 
 
 Right now, I’m diving deeper into the world of 3D graphics with Three.js and WebGL. Outside of work, I’m often exploring art, ceramics, and photography — anything that feeds my creative side.
 
-- 🔭 Currently exploring Three.js and WebGL  
-- 🌱 Learning more about art, ceramics, and photography  
-- 💬 Always up for chats about frontend, art, or UI/UX design  
+   🔭 Currently exploring Three.js and WebGL  
+   🌱 Learning more about art, ceramics, and photography  
+   💬 Always up for chats about frontend, art, or UI/UX design  
 
 Let’s build something beautiful.
